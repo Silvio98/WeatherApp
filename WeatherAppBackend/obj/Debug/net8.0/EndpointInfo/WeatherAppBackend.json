@@ -1,0 +1,176 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WeatherAppBackend",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Locations": {
+      "get": {
+        "tags": [
+          "Locations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LocationModel"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LocationModel"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LocationModel"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Weather/{globalIdLocal}": {
+      "get": {
+        "tags": [
+          "Weather"
+        ],
+        "parameters": [
+          {
+            "name": "globalIdLocal",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ForecastModel"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ForecastModel"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ForecastModel"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ForecastModel": {
+        "type": "object",
+        "properties": {
+          "tempMin": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "tempMax": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "classWind": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "windDirection": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "probPrecipitacion": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "classPrecipitacion": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "idWeatherType": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "diurno": {
+            "type": "boolean",
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LocationModel": {
+        "type": "object",
+        "properties": {
+          "idRegiao": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "globalIdLocal": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "idConcelho": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "idDistrito": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "nomeDistrito": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
