@@ -508,11 +508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppBackend\\WeatherAppBackend.csproj",
+      "projectUniqueName": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\WeatherAppBackend.csproj",
       "projectName": "WeatherAppBackend",
-      "projectPath": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppBackend\\WeatherAppBackend.csproj",
+      "projectPath": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\WeatherAppBackend.csproj",
       "packagesPath": "C:\\Users\\silvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppBackend\\obj\\",
+      "outputPath": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
