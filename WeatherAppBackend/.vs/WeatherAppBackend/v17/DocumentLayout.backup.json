@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\models\\forecastmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:models\\forecastmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A7E5E9A-3974-4157-8A83-30F9DEEBEFDD}|WeatherAppBackend.csproj|c:\\users\\silvi\\documents\\csharp_training\\weatherapp\\weatherappgithubrepo\\weatherapp\\weatherappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +47,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:29:56.083Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LocationsController.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\Controllers\\LocationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\LocationsController.cs",
@@ -61,12 +60,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:30:07.904Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\Controllers\\WeatherController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
@@ -75,8 +73,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:30:06.773Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -86,7 +83,7 @@
               "RelativeDocumentMoniker": "Services\\WeatherService.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\Services\\WeatherService.cs",
               "RelativeToolTip": "Services\\WeatherService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:30:09.291Z",
               "IsPinned": true,
@@ -94,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "LocationModel.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\Models\\LocationModel.cs",
               "RelativeDocumentMoniker": "Models\\LocationModel.cs",
@@ -108,17 +105,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ForecastModel.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\Models\\ForecastModel.cs",
               "RelativeDocumentMoniker": "Models\\ForecastModel.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\CSharp_Training\\WeatherApp\\WeatherAppGithubRepo\\WeatherApp\\WeatherAppBackend\\Models\\ForecastModel.cs",
               "RelativeToolTip": "Models\\ForecastModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:30:04.135Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             }
           ]
         },
